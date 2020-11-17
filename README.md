@@ -7,12 +7,10 @@ We seek to LEARN, UNDERSTAND & BUILD BRIDGES.
 <br>
 <br>
 Bridges between old and young, tech and business, business and society, left and right, neighbor to neighbor. We are more connected than any group of humans in our known history, so we think, yet feel more disjointed than ever.
-
 <br>
 
 **Our Mission:**
 Emit a high signal frequency at the intersection of thinking, data, and technology. 
-
 <br>
 
 **Our Objective:**
