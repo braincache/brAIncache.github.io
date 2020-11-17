@@ -1,4 +1,4 @@
-# br**AI**ncache.io
+
 ## Coding the intersection of generational thinking, technology, and AI
 
 We are the music makers,\
