@@ -1,5 +1,5 @@
 
-## Coding the intersection of generational thinking, technology, and AI
+# Coding the intersection of generational thinking, technology, and AI
 
 We are the music makers,\
     And we are the dreamers of dreams,\
