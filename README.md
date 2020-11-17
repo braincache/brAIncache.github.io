@@ -15,7 +15,7 @@ Emit a high signal frequency at the intersection of thinking, data, and technolo
 Scour the digital age identifying signals in the sea of information. Using our understanding of Data Science, Machine Learning, Artificial Intelligence,  & Technology, connecting our societal & philosophical thoughts, with hard data. Pushing our thoughts further along the edge of the 'tree of knowledge'.
 <br>
 
-Feel free, as a matter a fact, we encourage, to challenge our thoughts, the point is not to be right, it's to be iterative on our thinking. 
+Feel free, as a matter a fact, we encourage you to challenge our thoughts. The point is not to be right, it's to be iterative on and in our thinking. 
 
 
 We are the music makers,\
