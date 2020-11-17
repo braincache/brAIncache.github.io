@@ -4,13 +4,13 @@ Our intent is clear, delivering high signal content that remains objective and f
 <br>
 Bridges between old and young, tech and business, business and society, left and right, neighbor to neighbor. We are more connected than any group of humans in our known history, so we think, yet feel more disjointed than ever.
 <br>
+
 **Our Mission:**
-<br>
-    Emit a high signal frequency at the intersection of thinking, data, and technology. 
-<br>
+Emit a high signal frequency at the intersection of thinking, data, and technology. 
+
 **Our Objective:**
-<br>
-    Scour the digital age identifying signals in the sea of information. Using our understanding of Data Science, Machine Learning, Artificial Intelligence,  & Technology, connecting our societal & philosophical thoughts, with hard data. Pushing our thoughts further along the edge of the 'tree of knowledge'. 
+Scour the digital age identifying signals in the sea of information. Using our understanding of Data Science, Machine Learning, Artificial Intelligence,  & Technology, connecting our societal & philosophical thoughts, with hard data. Pushing our thoughts further along the edge of the 'tree of knowledge'.
+
 <br>
 Feel free, as a matter a fact, we encourage, to challenge our thoughts, the point is not to be right, it's to be iterative on our thinking. 
 
